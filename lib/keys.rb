@@ -11,7 +11,5 @@ require 'pry'
 def get_the_keys(groceries)
   #code your solution here!
   groceries.each do |group, items|
-    group.each do |attribute, data|
-    end
   end
 end
